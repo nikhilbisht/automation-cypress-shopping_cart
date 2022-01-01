@@ -1,0 +1,14 @@
+{
+    "baseUrl":"https://react-shopping-cart-67954.firebaseapp.com",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false,
+    "reporter": "mochawesome",
+    "video": false,
+    "reporterOptions": {
+        "reportDir": "cypress/reports/mochawesome-report",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
+}
